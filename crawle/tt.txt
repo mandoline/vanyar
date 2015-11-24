@@ -1,0 +1,51 @@
+<div class="poi-tile__info">
+<div class="basic cf">
+<i class="icon icon-shangjia"></i>
+<a class="link f3" href="http://bj.meituan.com/shop/67888777" target="_blank">丁丁洋回转自助火锅（酒仙桥店）</a>
+<span class="icons">
+<a class="icon icon-tuan" href="http://bj.meituan.com/shop/67888777#smh:anchor-salelist" target="_blank"></a>
+</span>
+</div>
+<div class="extra">
+<div class="tag-list">
+<a class="tag" href="http://bj.meituan.com/category/huoguo" target="_blank">火锅</a>
+<a class="tag" href="http://bj.meituan.com/category/all/jiuxianqiao" target="_blank">酒仙桥</a>
+</div>
+<div class="rate">
+<span class="common-rating">
+<span class="rate-stars" style="width:82%"></span>
+</span>
+<a class="count" href="http://bj.meituan.com/shop/67888777#evaluate-box" target="_blank"><span class="num">488</span>人评价</a>
+</div>
+</div>
+</div>
+
+ä¸ä¸æ´åè½¬èªå©ç«éï¼éä»æ¡¥åºï¼
+------------------------------------>>>>>>>>>>>
+<div class="poi-tile__info">
+<div class="basic cf">
+<i class="icon icon-shangjia"></i>
+<a class="link f3" href="http://bj.meituan.com/shop/281711" target="_blank">恒河印度餐厅（海润店）</a>
+<span class="icons">
+<a class="icon icon-tuan" href="http://bj.meituan.com/shop/281711#smh:anchor-salelist" target="_blank"></a>
+</span>
+</div>
+<div class="extra">
+<div class="tag-list">
+<a class="tag" href="http://bj.meituan.com/category/xican" target="_blank">西餐</a>
+<a class="tag" href="http://bj.meituan.com/category/all/jiuxianqiao" target="_blank">酒仙桥</a>
+</div>
+<div class="rate">
+<span class="common-rating">
+<span class="rate-stars" style="width:84%"></span>
+</span>
+<a class="count" href="http://bj.meituan.com/shop/281711#evaluate-box" target="_blank"><span class="num">20</span>人评价</a>
+</div>
+</div>
+</div>
+
+ææ²³å°åº¦é¤åï¼æµ·æ¶¦åºï¼
+------------------------------------>>>>>>>>>>>
+http://bj.meituan.com/category/meishi/jiuxianqiao?mtt=1.index%2Fdefault%2Fpoi.0.0.ihdisek5 
+ is over
+crawle over...

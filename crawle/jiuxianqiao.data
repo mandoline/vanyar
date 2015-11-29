@@ -1,0 +1,309 @@
+strict_name":"朝阳区",
+"district_id":307,
+"biz_areas":[
+    {
+        "biz_area_name":"亮马桥",
+        "biz_area_id":929
+
+    },
+    {
+        "biz_area_name":"三元桥",
+        "biz_area_id":930
+
+    },
+    {
+        "biz_area_name":"安贞",
+        "biz_area_id":1316
+
+    },
+    {
+        "biz_area_name":"酒仙桥",
+        "biz_area_id":1319
+
+    },
+    {
+        "biz_area_name":"东直门",
+        "biz_area_id":1322
+
+    },
+    {
+        "biz_area_name":"朝外大街",
+        "biz_area_id":1323
+
+    },
+    {
+        "biz_area_name":"对外经贸",
+        "biz_area_id":1333
+
+    },
+    {
+        "biz_area_name":"左家庄",
+        "biz_area_id":1334
+
+    },
+    {
+        "biz_area_name":"国贸",
+        "biz_area_id":1371
+
+    },
+    {
+        "biz_area_name":"劲松",
+        "biz_area_id":1380
+
+    },
+{
+    "biz_area_name":"潘家园",
+    "biz_area_id":1381
+
+},
+{
+    "biz_area_name":"双井",
+    "biz_area_id":1384
+
+},
+{
+    "biz_area_name":"望京",
+    "biz_area_id":1388
+
+},
+{
+    "biz_area_name":"三里屯",
+    "biz_area_id":1392
+
+},
+{
+    "biz_area_name":"亚运村",
+    "biz_area_id":1396
+
+},
+{
+    "biz_area_name":"大望路",
+    "biz_area_id":1407
+
+},
+{
+    "biz_area_name":"十八里店",
+    "biz_area_id":1409
+
+},
+{
+    "biz_area_name":"十里堡",
+    "biz_area_id":1410
+
+},
+{
+    "biz_area_name":"管庄",
+    "biz_area_id":1411
+
+},
+{
+    "biz_area_name":"朝阳公园",
+    "biz_area_id":1412
+
+},
+{
+    "biz_area_name":"团结湖",
+    "biz_area_id":1413
+
+},
+{
+    "biz_area_name":"首都机场",
+    "biz_area_id":1415
+
+},
+{
+    "biz_area_name":"建外大街",
+    "biz_area_id":1426
+
+},
+{
+    "biz_area_name":"北苑家园",
+    "biz_area_id":1449
+
+},
+{
+    "biz_area_name":"蓝色港湾",
+    "biz_area_id":5824
+
+},
+{
+    "biz_area_name":"青年路",
+    "biz_area_id":6440
+
+},
+{
+    "biz_area_name":"太阳宫",
+    "biz_area_id":8073
+
+},
+{
+    "biz_area_name":"永安里",
+    "biz_area_id":8150
+
+},
+{
+    "biz_area_name":"鸟巢",
+    "biz_area_id":8840
+
+},
+{
+    "biz_area_name":"东坝",
+    "biz_area_id":9194
+
+},
+{
+    "biz_area_name":"高碑店",
+    "biz_area_id":10238
+
+},
+{
+    "biz_area_name":"百子湾",
+    "biz_area_id":11467
+
+},
+{
+    "biz_area_name":"八里庄",
+    "biz_area_id":11561
+
+},
+{
+    "biz_area_name":"北京东站",
+    "biz_area_id":11562
+
+},
+{
+    "biz_area_name":"北京欢乐谷",
+    "biz_area_id":11563
+
+},
+{
+    "biz_area_name":"北沙滩",
+    "biz_area_id":11564
+
+},
+{
+    "biz_area_name":"朝阳大悦城",
+    "biz_area_id":11565
+
+},
+{
+    "biz_area_name":"传媒大学",
+    "biz_area_id":11566
+
+},
+{
+    "biz_area_name":"大屯",
+    "biz_area_id":11567
+
+},
+{
+    "biz_area_name":"工体",
+    "biz_area_id":11568
+
+},
+{
+    "biz_area_name":"立水桥",
+    "biz_area_id":11569
+
+},
+{
+    "biz_area_name":"石佛营",
+    "biz_area_id":11570
+
+},
+{
+    "biz_area_name":"四惠",
+    "biz_area_id":11571
+
+},
+{
+    "biz_area_name":"双桥",
+    "biz_area_id":11572
+
+},
+{
+    "biz_area_name":"甜水园",
+    "biz_area_id":11573
+
+},
+{
+    "biz_area_name":"霄云路",
+    "biz_area_id":11576
+
+},
+{
+    "biz_area_name":"小营",
+    "biz_area_id":11577
+
+},
+{
+    "biz_area_name":"姚家园",
+    "biz_area_id":11578
+
+},
+{
+    "biz_area_name":"农展馆",
+    "biz_area_id":11579
+
+},
+{
+    "biz_area_name":"世贸天阶",
+    "biz_area_id":11847
+
+},
+{
+    "biz_area_name":"常营",
+    "biz_area_id":14152
+
+},
+{
+    "biz_area_name":"慈云寺",
+    "biz_area_id":17329
+
+},
+{
+    "biz_area_name":"十里河",
+    "biz_area_id":24600
+
+},
+{
+    "biz_area_name":"小红门",
+    "biz_area_id":24601
+
+},
+{
+    "biz_area_name":"大鲁店",
+    "biz_area_id":24691
+
+},
+{
+    "biz_area_name":"西直河",
+    "biz_area_id":24703
+
+},
+{
+    "biz_area_name":"豆各庄",
+    "biz_area_id":24705
+
+},
+{
+    "biz_area_name":"平乐园",
+    "biz_area_id":24706
+
+},
+{
+    "biz_area_name":"九龙山",
+    "biz_area_id":24707
+
+},
+{
+    "biz_area_name":"南楼梓庄",
+    "biz_area_id":24710
+
+},
+{
+    "biz_area_name":"孙河",
+    "biz_area_id":24714
+
+}
+]

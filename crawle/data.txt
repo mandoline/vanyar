@@ -1,0 +1,31 @@
+> db.chiwhat.findOne()
+{
+        "_id" : ObjectId("56572b7d66d8c20c9271a2a9"),
+        "distance" : -1,
+        "shop_url" : "http://www.nuomi.com/cps/redirect?cid=openapi&app_id=a4238d6d1bd7699437ef4644fd0fa3d9&url=http%3A%2F%2Fwww.nuomi.com%2Fshop%2F1592939",
+        "deal_num" : 1,
+        "longitude" : 116.501897,
+        "shop_name" : "德州扒鸡(酒仙桥旗舰店)",
+        "deals" : [
+                {
+                        "tiny_image" : "http://timg.baidu.com/timg?lbstsm&ref=http%3a%2f%2fbj.nuomi.com&quality=100&size=8&sec=1448553341&di=81b0660e425e8463be3890d8a55d33df&src=http://e.hiphotos.baidu.com/bainuo/crop=0,0,720,436;w=230;q=80/sign=d64554efa744ad343af0ddc7ed9220c4/377adab44aed2e73ccb2702e8101a18b87d6fa5d.jpg",
+                        "description" : "扒鸡3选1！节假日通用，可叠加使用！",
+                        "title" : "德州扒鸡",
+                        "comment_num" : 139,
+                        "image" : "http://timg.baidu.com/timg?lbstsm&ref=http%3a%2f%2fbj.nuomi.com&quality=100&size=8&sec=1448553341&di=d347e0a4add10fd1d2e361cca0766343&src=http://e.hiphotos.baidu.com/bainuo/crop=0,0,720,436;w=720;q=80/sign=4bb1521191dda144ce4636f28f87fc92/377adab44aed2e73ccb2702e8101a18b87d6fa5d.jpg",
+                        "deal_url" : "http://www.nuomi.com/cps/redirect?cid=openapi&app_id=a4238d6d1bd7699437ef4644fd0fa3d9&url=http%3A%2F%2Fbj.nuomi.com%2Fdeal%2Fhbsn4pib.html",
+                        "deal_murl" : "http://www.nuomi.com/cps/redirect?cid=openapi&app_id=a4238d6d1bd7699437ef4644fd0fa3d9&url=http%3A%2F%2Fm.nuomi.com%2Fbj%2Fdeal%2Fhbsn4pib",
+                        "market_price" : 3800,
+                        "score" : 4.55,
+                        "current_price" : 2850,
+                        "sale_num" : 1072,
+                        "promotion_price" : 2850,
+                        "deal_id" : 3217481
+                }
+        ],
+        "shop_id" : 1592939,
+        "latitude" : 39.968896,
+        "shop_murl" : "http://www.nuomi.com/cps/redirect?cid=openapi&app_id=a4238d6d1bd7699437ef4644fd0fa3d9&url=http%3A%2F%2Fm.nuomi.com%2Fmerchant%2F1592939"
+}
+> db.chiwhat.count()
+499
